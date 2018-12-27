@@ -13,7 +13,7 @@ Bet gal ką nors šis projektėlis įkvėps padaryti kažką įdomaus? Būtent d
 ## Kas prie šio projekto buvo prisidėję?
 
   * [Donatas Mačiulis](https://github.com/lababama) - balsas
-  * Egidijus Šereika - prodiusavimo pagalba
+  * Egidijus Šereika - prodiusavimas
   * Milda Ruzgytė - animacija, grafika
   * [Raimondas Rimkevičius](https://github.com/mekdrop) - scenarijus, idėja
   * ???? - balsas
