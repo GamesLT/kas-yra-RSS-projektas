@@ -16,4 +16,4 @@ Bet gal ką nors šis projektėlis įkvėps padaryti kažką įdomaus? Būtent d
   * Egidijus Šereika - prodiusavimas
   * Milda Ruzgytė - animacija, grafika
   * [Raimondas Rimkevičius](https://github.com/mekdrop) - scenarijus, idėja
-  * ???? - balsas
+  * Ieva ???? - balsas
