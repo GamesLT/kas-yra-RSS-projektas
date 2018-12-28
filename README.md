@@ -1,4 +1,4 @@
-[![Creative Commons License](https://img.shields.io/badge/license-BY--CC--ND-green.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)  ![GitHub release](https://img.shields.io/github/release/GamesLT/kas-yra-RSS-projektas.svg)
+[![Creative Commons License](https://img.shields.io/badge/license-BY--CC--ND-green.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # Projektas: Kas yra RSS?
 
